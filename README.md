@@ -16,7 +16,7 @@ The program generates two types of output:
   - **Tag Counts** (including "Untagged" for unmatched rows).
   - **Port/Protocol Combination Counts**.
 - Handles invalid input rows (e.g., missing columns).
-- 
+  
 ## Prerequisites
 
 - **Java Development Kit (JDK) 8 or higher**.
